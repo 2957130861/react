@@ -1,285 +1,286 @@
 {
-  "keys": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
+  "keys": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
   "multipart": {
-    "mode": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-    "autoFields": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "defaultCharset": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fieldSize": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fields": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fileSize": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "files": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fileExtensions": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "whitelist": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "tmpdir": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "mode": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+    "autoFields": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+      "cron": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
     }
   },
   "security": {
     "csrf": {
-      "enable": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "ignoreJSON": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "type": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "useSession": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "cookieName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "sessionName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "headerName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "bodyName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "queryName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "refererWhiteList": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "ignoreJSON": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "type": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-    "protocolWhiteList": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-    "defaultMiddleware": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "domainWhiteList": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
-      "maxAge": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "includeSubdomains": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "policy": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "checkAddress": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "ipBlackList": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     }
   },
   "mysql": {
     "client": {
-      "host": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "port": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "user": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "password": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-      "database": "F:\\HBuilderProjects\\travel\\config\\config.default.js"
+      "host": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "port": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "user": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "password": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+      "database": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js"
     },
     "default": {
-      "database": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
-      "connectionLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+      "database": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
     },
-    "app": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
-    "agent": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    "app": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
   },
   "cors": {
-    "origin": "F:\\HBuilderProjects\\travel\\config\\config.default.js",
-    "allowMethods": "F:\\HBuilderProjects\\travel\\config\\config.default.js"
+    "origin": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js",
+    "allowMethods": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "key": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "httpOnly": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "encrypt": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+    "maxAge": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    "shtml": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "callback": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "csrf": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+    "limit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "templatePath": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "dirs": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "queryField": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieField": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieDomain": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+    "defaultLocale": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "type": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
-      "development": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+      "default": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js",
-      "file": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+      "consoleLevel": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-schedule@3.6.4@egg-schedule\\config\\config.default.js"
+    "directory": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
   },
   "development": {
-    "watchDirs": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
-    "ignoreDirs": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
-    "fastReady": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
-    "reloadOnDebug": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js",
-    "overrideDefault": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-development@2.5.0@egg-development\\config\\config.default.js"
+    "watchDirs": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFiles": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxDays": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dir": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dynamic": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "preload": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "buffer": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "maxFiles": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+    "prefix": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "cache": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
-    "defaultExtension": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "defaultViewEngine": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "mapping": "F:\\HBuilderProjects\\travel\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+    "root": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
   },
-  "env": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "name": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "cookies": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "proxy": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "maxIpsCount": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "maxProxyCount": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "protocolHeaders": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "ipHeaders": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "hostHeaders": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "env": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "name": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "cookies": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "proxy": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "pkg": {
-    "name": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "version": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "description": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "main": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "name": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "version": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "description": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "main": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "scripts": {
-      "test": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "dev": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "test": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "dev": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
-    "author": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "license": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "author": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "license": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "dependencies": {
-      "egg": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "egg-cors": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "egg-mysql": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "egg": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-cors": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-mysql": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "egg-bin": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
-  "baseDir": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "HOME": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "rundir": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "baseDir": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "HOME": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "rundir": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "dump": {
-    "ignore": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "ignore": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "notFound": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "sitefile": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "middlewares": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "httpClient": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "bodyparser": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "notFound": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "pageUrl": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "/favicon.ico": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "encoding": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "formLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "jsonLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "textLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "strict": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "textLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "strict": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "depth": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "parameterLimit": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "arrayLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "depth": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
-    "onerror": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "onerror": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "encoding": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "env": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "level": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "consoleLevel": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "outputJSON": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "buffer": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "appLogName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "coreLogName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "agentLogName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "errorLogName": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "dir": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "env": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "level": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "buffer": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.local.js"
+      "consoleLevel": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "allowDebugAtProd": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+    "enableDNSCache": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "request": {
-      "timeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "timeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "maxSockets": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "keepAlive": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "maxSockets": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "keepAlive": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "logging": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "enable": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "logging": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
-  "coreMiddleware": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "workerStartTimeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-  "serverTimeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
+  "coreMiddleware": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "serverTimeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "port": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-      "hostname": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+      "path": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "port": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "hostname": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js",
-    "responseTimeout": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+    "maxWaitTime": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "responseTimeout": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
-  "onClientError": "F:\\HBuilderProjects\\travel\\node_modules\\_egg@2.27.0@egg\\config\\config.default.js"
+  "onClientError": "E:\\js 1\\react\\sq\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
 }
