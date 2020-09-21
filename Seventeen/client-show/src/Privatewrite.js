@@ -36,6 +36,7 @@ export default class Privatewrite extends React.Component {
     }
     mycenter = (e) => {
         this.setState({
+            qingkong:"",
             centerxinxi:e
         })
     }

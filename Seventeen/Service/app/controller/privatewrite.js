@@ -31,5 +31,13 @@ class Privatewrite extends Controller {
         let id = this.ctx.request.query.id;
         ctx.body = await this.ctx.service.privatewrite.idgetuserwrite(id);
     }
+    async xgprivatewrite() {
+        const { ctx } = this;
+        let id = this.ctx.request.body.id;
+        let userPrivatewritebt = this.ctx.request.body.userPrivatewritebt;
+        let userPrivatewritedate = this.ctx.request.body.userPrivatewritedate;
+        let userPrivatewrite = this.ctx.request.body.userPrivatewrite;
+        ctx.body = await this.ctx.service.privatewrite.xgprivatewrite(id,userPrivatewritebt,userPrivatewritedate,userPrivatewrite)
+    }
 }
 module.exports = Privatewrite

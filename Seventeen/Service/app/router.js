@@ -6,4 +6,5 @@ module.exports=app=>{
    router.post("/deleteuserwrite", controller.privatewrite.deleteuserwrite);
    router.get("/ssgetuserwrite", controller.privatewrite.ssgetuserwrite);
    router.get("/idgetuserwrite", controller.privatewrite.idgetuserwrite);
+   router.post("/xgprivatewrite", controller.privatewrite.xgprivatewrite);
 }

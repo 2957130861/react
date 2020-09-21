@@ -96,6 +96,10 @@
 .Privatewrite-XHNR p{
     font-size: 10px;
 }
+.Privatewrite-XHNR-time{
+    display: inline-block;
+    width: 75px;
+}
 .Privatewrite-XHNR-delete{
     position: relative;
     left: 250px;

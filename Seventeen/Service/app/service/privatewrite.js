@@ -29,5 +29,11 @@ class Privatewrite extends Service {
         let list = await this.ctx.app.mysql.query(sql, [id]);
         return list;
     }
+    async xgprivatewrite(id,userPrivatewritebt,userPrivatewritedate,userPrivatewrite) {
+        let sql = "update userPrivatewrite set bt=?,time=?,userwrite=? where id=?";
+        let r = await this.ctx.app.mysql.query(sql, [userPrivatewritebt,userPrivatewritedate,userPrivatewrite,id]);
+        return r.affectedRows;
+    }
+    
 }
 module.exports = Privatewrite;

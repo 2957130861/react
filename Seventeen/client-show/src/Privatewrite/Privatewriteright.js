@@ -1,12 +1,16 @@
 import React from 'react';
 import axios from 'axios';
+import { FlagFilled } from '@ant-design/icons';
 
 export default class Privatewriteright extends React.Component {
 
     constructor(props) {
         super();
         this.state = {
-            Privatewriterightbt: ""
+            Privatewriterightbt: "",
+            xiugaiorbaocun:true,
+            userId:"",
+            datetime:""
         }
     };
     render() {
@@ -42,7 +46,7 @@ export default class Privatewriteright extends React.Component {
         console.log(userPrivatewritebt, userPrivatewritedate, userPrivatewrite)
         if (!userPrivatewritebt || !userPrivatewrite) {
             alert("标题或内容不能为空")
-        } else {
+        } else if(this.state.xiugaiorbaocun) {
             axios.post("http://127.0.0.1:7001/Addprivatewrite", {
                 usernum: 123456,
                 userPrivatewritebt: userPrivatewritebt,
@@ -56,13 +60,32 @@ export default class Privatewriteright extends React.Component {
                     this.props.app.myright(true)
                 }
             })
+        }else{
+            let userPrivatewritedatecopy = document.querySelector(".Privatewriteright-top-date").value
+            if(!userPrivatewritedatecopy){
+                userPrivatewritedatecopy = this.state.datetime
+            }
+            axios.post("http://127.0.0.1:7001/xgprivatewrite", {
+                id:this.state.userId,
+                userPrivatewritebt: userPrivatewritebt,
+                userPrivatewritedate: userPrivatewritedatecopy,
+                userPrivatewrite: userPrivatewrite
+            }).then((res) => {
+                console.log(res.data)
+                if (res.data == 1) {
+                    alert("修改成功")
+                    this.qingkong()
+                    this.props.app.myright(true)
+                }
+            })
         }
     }
     qingkong(){
         console.log("1")
         document.querySelector("iframe").contentWindow.document.querySelector("body").innerHTML = ""
         this.setState({
-            Privatewriterightbt:""
+            Privatewriterightbt:"",
+            xiugaiorbaocun:true
         })
     }
     centerxuanran(e){
@@ -73,10 +96,16 @@ export default class Privatewriteright extends React.Component {
         }).then((res)=>{
             console.log(res.data)
             this.setState({
-                Privatewriterightbt:res.data[0].bt
+                Privatewriterightbt:res.data[0].bt,
+                datetime:res.data[0].time
             })
             console.log(res.data[0].userwrite)
             document.querySelector("iframe").contentWindow.document.querySelector("body").innerHTML = res.data[0].userwrite
+        })
+        console.log(e)
+        this.setState({
+            xiugaiorbaocun:false,
+            userId:e
         })
     }
     componentDidMount() {
@@ -91,8 +120,7 @@ export default class Privatewriteright extends React.Component {
         console.log(props.qingkong,props)
         if(props.qingkong == true){
             this.qingkong()
-        }
-        if(props.centerxinxi){
+        }else if(props.centerxinxi){
             this.centerxuanran(props.centerxinxi)
         }
     }

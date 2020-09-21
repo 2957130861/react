@@ -79,7 +79,7 @@ export default class Privatewritecenter extends React.Component {
         })
     }
     chakan(itemid){
-        console.log(itemid,"sukahdskjhdalksjd;asljdalksjd ")
+        console.log(itemid)
         this.props.app.mycenter(itemid)
     }
     list() {
@@ -87,7 +87,7 @@ export default class Privatewritecenter extends React.Component {
             return <div onClick={this.chakan.bind(this,item.id)} className="Privatewrite-XHNR" key={item.id}>
                 <p>{item.bt}</p>
                 <div>
-                    <span>{item.time}</span>
+                    <span className="Privatewrite-XHNR-time">{item.time}</span>
                     <span onClick={this.mydelete.bind(this,item.id)} className="Privatewrite-XHNR-delete">删除</span>
                 </div>
             </div>
