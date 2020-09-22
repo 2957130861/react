@@ -1,0 +1,61 @@
+.main {
+    background-color: #ffffff;
+    height: 100%;
+    width: 70vw;
+    box-sizing: border-box;
+}
+.title{
+    width: 65vw;
+    border-bottom: 1px solid #e9e9e9;
+    padding-bottom: 15px;
+    margin: 26px 35px;
+    box-sizing: border-box;
+    color: #333;
+    font-size: 13px;
+    font-family: "PingFangSC-Medium";
+    letter-spacing: 1px;
+}
+.productBanner{
+    display: flex;
+    justify-content: space-around;
+    padding: 26px 35px;
+    box-sizing: border-box;
+    width: 70vw;
+    height: 200px;
+}
+.productBanner>div{
+    width: 45%;
+    height: 100%;
+    cursor: pointer;
+}
+.productBanner>div img{
+    width: 99%;
+    height: 99%;
+    border-radius: 4px;
+}
+.cardStyles{
+    display: flex; 
+    flex-wrap: wrap; 
+    justify-content: space-around; 
+    padding: 20px 24px;
+    box-sizing: border-box;
+    width: 70vw;
+}
+.cardStyles>div{
+    width: 25%;
+    height: 200px;
+}
+.cardStyles>div img{
+    width: 100%;
+    height: 85%;
+}
+.cardStyles>div .info{
+    width: 100%;
+    height: 15%;
+    color: #666666;
+    font-size: 12px;
+    font-family: "PingFangSC-Medium";
+    letter-spacing: 1px;
+    display: flex;
+    justify-content: space-around;
+}

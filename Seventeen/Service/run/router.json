@@ -5,21 +5,8 @@
       "POST"
     ],
     "paramNames": [],
-    "path": "/Addprivatewrite",
-    "regexp": "/^\\/Addprivatewrite(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "HEAD",
-      "GET"
-    ],
-    "paramNames": [],
-    "path": "/getuserwrite",
-    "regexp": "/^\\/getuserwrite(?:\\/(?=$))?$/",
+    "path": "/getMyBook",
+    "regexp": "/^\\/getMyBook(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]
@@ -30,46 +17,8 @@
       "POST"
     ],
     "paramNames": [],
-    "path": "/deleteuserwrite",
-    "regexp": "/^\\/deleteuserwrite(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "HEAD",
-      "GET"
-    ],
-    "paramNames": [],
-    "path": "/ssgetuserwrite",
-    "regexp": "/^\\/ssgetuserwrite(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "HEAD",
-      "GET"
-    ],
-    "paramNames": [],
-    "path": "/idgetuserwrite",
-    "regexp": "/^\\/idgetuserwrite(?:\\/(?=$))?$/",
-    "stack": [
-      "wrappedController"
-    ]
-  },
-  {
-    "name": null,
-    "methods": [
-      "POST"
-    ],
-    "paramNames": [],
-    "path": "/xgprivatewrite",
-    "regexp": "/^\\/xgprivatewrite(?:\\/(?=$))?$/",
+    "path": "/BookUpload",
+    "regexp": "/^\\/BookUpload(?:\\/(?=$))?$/",
     "stack": [
       "wrappedController"
     ]

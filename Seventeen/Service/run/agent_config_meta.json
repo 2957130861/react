@@ -1,286 +1,286 @@
 {
-  "keys": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
+  "keys": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
   "multipart": {
-    "mode": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-    "autoFields": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "defaultCharset": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fieldNameSize": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fieldSize": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fields": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fileSize": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "files": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "fileExtensions": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "whitelist": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
-    "tmpdir": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "mode": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+    "autoFields": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "defaultCharset": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldNameSize": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fieldSize": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fields": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileSize": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "files": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "fileExtensions": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "whitelist": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
+    "tmpdir": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js",
     "cleanSchedule": {
-      "cron": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
+      "cron": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart\\config\\config.default.js"
     }
   },
   "security": {
     "csrf": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "ignoreJSON": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "type": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "useSession": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "cookieName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "sessionName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "headerName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "bodyName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "queryName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "refererWhiteList": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "ignoreJSON": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "type": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "useSession": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "cookieName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "sessionName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "headerName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "bodyName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "queryName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "refererWhiteList": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
-    "domainWhiteList": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-    "protocolWhiteList": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-    "defaultMiddleware": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "domainWhiteList": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "protocolWhiteList": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+    "defaultMiddleware": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
     "xframe": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "hsts": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
-      "maxAge": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "includeSubdomains": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.local.js",
+      "maxAge": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "includeSubdomains": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "dta": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "methodnoallow": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "noopen": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "nosniff": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "referrerPolicy": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "xssProtection": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "value": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "value": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "csp": {
-      "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "policy": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "policy": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
-      "checkAddress": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+      "ipBlackList": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js",
+      "checkAddress": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
     }
   },
   "mysql": {
     "client": {
-      "host": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "port": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "user": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "password": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-      "database": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js"
+      "host": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "port": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "user": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "password": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+      "database": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js"
     },
     "default": {
-      "database": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
-      "connectionLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+      "database": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+      "connectionLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
     },
-    "app": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
-    "agent": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
+    "app": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js",
+    "agent": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql\\config\\config.default.js"
   },
   "cors": {
-    "origin": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js",
-    "allowMethods": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\config\\config.default.js"
+    "origin": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js",
+    "allowMethods": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\config.default.js"
   },
   "session": {
-    "maxAge": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "key": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "httpOnly": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
-    "encrypt": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
+    "maxAge": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "key": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "httpOnly": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js",
+    "encrypt": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session\\config\\config.default.js"
   },
   "helper": {
-    "shtml": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
+    "shtml": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security\\config\\config.default.js"
   },
   "jsonp": {
-    "limit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "callback": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
-    "csrf": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
+    "limit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "callback": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js",
+    "csrf": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp\\config\\config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "appErrorFilter": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
-    "templatePath": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
+    "errorPageUrl": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "appErrorFilter": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js",
+    "templatePath": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\config\\config.default.js"
   },
   "i18n": {
-    "defaultLocale": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "dirs": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "queryField": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieField": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieDomain": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
-    "cookieMaxAge": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
+    "defaultLocale": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "dirs": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "queryField": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieField": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieDomain": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js",
+    "cookieMaxAge": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n\\config\\config.default.js"
   },
   "watcher": {
-    "type": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
+    "type": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.local.js",
     "eventSources": {
-      "default": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
-      "development": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
+      "default": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js",
+      "development": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\config\\config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
-      "file": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+      "consoleLevel": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js",
+      "file": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
     }
   },
   "schedule": {
-    "directory": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
+    "directory": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule\\config\\config.default.js"
   },
   "development": {
-    "watchDirs": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
-    "ignoreDirs": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
-    "fastReady": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
-    "reloadOnDebug": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
-    "overrideDefault": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
-    "overrideIgnore": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
+    "watchDirs": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "ignoreDirs": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "fastReady": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "reloadOnDebug": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideDefault": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js",
+    "overrideIgnore": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development\\config\\config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "hourDelimiter": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "filesRotateBySize": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFileSize": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxFiles": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "rotateDuration": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
-    "maxDays": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
+    "filesRotateByHour": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "hourDelimiter": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "filesRotateBySize": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFileSize": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxFiles": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "rotateDuration": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js",
+    "maxDays": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator\\config\\config.default.js"
   },
   "static": {
-    "prefix": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dir": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "dynamic": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "preload": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "buffer": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
-    "maxFiles": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
+    "prefix": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dir": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "dynamic": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "preload": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "buffer": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js",
+    "maxFiles": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static\\config\\config.default.js"
   },
   "view": {
-    "root": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "cache": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
-    "defaultExtension": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "defaultViewEngine": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
-    "mapping": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
+    "root": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "cache": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.local.js",
+    "defaultExtension": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "defaultViewEngine": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js",
+    "mapping": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view\\config\\config.default.js"
   },
-  "env": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "name": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "cookies": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "proxy": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "maxIpsCount": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "maxProxyCount": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "protocolHeaders": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "ipHeaders": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "hostHeaders": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "env": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "name": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "cookies": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "proxy": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxIpsCount": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "maxProxyCount": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "protocolHeaders": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "ipHeaders": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "hostHeaders": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "pkg": {
-    "name": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "version": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "description": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "main": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "name": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "version": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "description": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "main": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "scripts": {
-      "test": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "dev": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "test": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "dev": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
-    "author": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "license": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "author": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "license": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "dependencies": {
-      "egg": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "egg-cors": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "egg-mysql": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "egg": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-cors": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "egg-mysql": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "devDependencies": {
-      "egg-bin": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "egg-bin": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
-  "baseDir": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "HOME": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "rundir": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "baseDir": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "HOME": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "rundir": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "dump": {
-    "ignore": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "ignore": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "notFound": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "sitefile": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "middlewares": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "httpClient": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "bodyparser": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "notFound": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "sitefile": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "middlewares": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "httpClient": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "notfound": {
-    "pageUrl": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "pageUrl": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "/favicon.ico": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "bodyParser": {
-    "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "encoding": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "formLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "jsonLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "textLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "strict": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "formLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "jsonLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "textLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "strict": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "queryString": {
-      "arrayLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "depth": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "parameterLimit": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "arrayLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "depth": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "parameterLimit": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
-    "onerror": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "onerror": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "logger": {
-    "dir": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "encoding": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "env": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "level": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "consoleLevel": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "disableConsoleAfterReady": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "outputJSON": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "buffer": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "appLogName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "coreLogName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "agentLogName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "errorLogName": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dir": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "encoding": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "env": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "level": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "consoleLevel": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "disableConsoleAfterReady": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "outputJSON": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "buffer": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "appLogName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "coreLogName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "agentLogName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "errorLogName": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "coreLogger": {
-      "consoleLevel": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.local.js"
+      "consoleLevel": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.local.js"
     },
-    "allowDebugAtProd": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "allowDebugAtProd": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "dnsCacheLookupInterval": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "dnsCacheMaxLength": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "enableDNSCache": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheLookupInterval": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "dnsCacheMaxLength": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
     "request": {
-      "timeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "timeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "maxSockets": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "keepAlive": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "freeSocketTimeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "maxSockets": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "maxFreeSockets": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "keepAlive": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "freeSocketTimeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxSockets": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "maxFreeSockets": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
   "meta": {
-    "enable": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "logging": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "enable": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "logging": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
-  "coreMiddleware": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "workerStartTimeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-  "serverTimeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "coreMiddleware": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "workerStartTimeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+  "serverTimeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
   "cluster": {
     "listen": {
-      "path": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "port": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-      "hostname": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "port": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+      "hostname": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
     }
   },
   "clusterClient": {
-    "maxWaitTime": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
-    "responseTimeout": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+    "maxWaitTime": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js",
+    "responseTimeout": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
   },
-  "onClientError": "E:\\js 1\\react\\sq\\new\\react\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
+  "onClientError": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\config.default.js"
 }

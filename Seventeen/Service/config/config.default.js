@@ -19,7 +19,7 @@ exports.mysql = {
     port: '3306',
     user: 'root',
     password: '123',
-    database: 'shiqi',
+    database: 'seventeen',
   },
 };
 
