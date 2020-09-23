@@ -1,0 +1,45 @@
+.nav-fixed {
+    position: fixed;
+    width: 100%;
+    margin: auto;
+    justify-content: space-between;
+    align-items: center;
+    background-color:rgb(255, 255, 255);
+    top: 0px;
+    z-index: 100;
+}
+
+.navImg {
+    width: 94px;
+    height: 60px;
+    line-height: 60px;
+    margin-left: 41px;
+    display: inline-block;
+    cursor: pointer;
+    z-index: -1;
+}
+.logoImg{
+    vertical-align: middle;
+    border-style: none;
+    width: 94px;
+    height: 37px;
+    margin-right: 20px;
+}
+.leftnav {
+    top:1px;
+    display: inline-block
+}
+.leftnav>span>a,
+.rightnav>span>a {
+    cursor: pointer;
+    font-size: 12px;
+    padding: 20px 27px; 
+    color: #333;
+}
+.leftnav>span>a:hover,
+.rightnav>span>a:hover {
+    border-bottom: 2px solid #333;
+}
+.rightnav {
+    float: right;
+}

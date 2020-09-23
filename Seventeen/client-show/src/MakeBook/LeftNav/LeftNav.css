@@ -1,0 +1,144 @@
+.leftnav {
+    /* background-color: rgb(245, 245, 250); */
+    height: 100%;
+    min-width: 350px;
+    box-sizing: border-box;
+    position: relative;
+}
+
+.top {
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 0px;
+    padding: 28px 26px;
+    box-sizing: border-box;
+    background-color: rgb(245, 245, 250);
+    min-width: 100%;
+    height: 60px;
+    z-index: 1;
+}
+
+.top>span {
+    font-size: 12px;
+    font-family: "Courier New", "宋体";
+    color: rgb(102, 102, 102);
+    letter-spacing: 2px;
+    padding-right: 4px;
+}
+
+.ownwork {
+    cursor: default;
+}
+
+.all {
+    cursor: pointer;
+}
+
+.middle {
+    margin-top: 50px;
+    padding: 8px 24px;
+    min-height: 400px;
+}
+
+ul {
+    list-style: none;
+    padding: 0 0;
+}
+
+ul li:last-child {
+    margin-bottom: 120px;
+}
+
+.card {
+    width: 290px;
+    height: 165px;
+    border-bottom: 1px solid #e8e8e8;
+    margin: 20px auto;
+    display: flex;
+    align-items: center;
+    padding: 12px 0;
+    box-sizing: border-box;
+}
+
+.card img {
+    height: 116px;
+    width: 158px;
+}
+
+.card div {
+    width: 100px;
+    height: 116px;
+    margin-left: 20px;
+    font-family: "PingFangSC-Medium";
+    font-size: 12px;
+}
+
+.card div>p:nth-of-type(1) {
+    font-size: 13px;
+    color: rgb(51, 51, 51);
+    margin-top: 20px;
+    width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card div>p:nth-of-type(2) {
+    width: 100%;
+    color: rgb(102, 102, 102);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.card div>p:nth-of-type(3) {
+    width: 100%;
+    color: rgb(153, 153, 153);
+    margin-top: 30px;
+}
+
+.bottom1 {
+    position: absolute;
+    bottom: 0px;
+    box-sizing: border-box;
+    background-color: rgb(245, 245, 250);
+    min-width: 100%;
+    height: 140px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    z-index: 1;
+}
+
+.bottom>div {
+    width: 300px;
+    height: 100%;
+    background-color: #fff;
+    margin: 0px auto;
+}
+
+.bottom h3 {
+    font-family: "PingFang SC";
+    color: rgb(51, 51, 51);
+    line-height: 17px;
+    letter-spacing: 1px;
+    padding: 13px 20px;
+    font-size: 13px;
+    margin-bottom: .5em;
+    cursor: default;
+}
+
+.bottom .link {
+    display: flex;
+}
+
+.bottom .link>div {
+    height: 64px;
+    margin: 0px 16px;
+}
+
+.link>img {
+    width: 42px;
+    height: 50px;
+    cursor: pointer;
+}

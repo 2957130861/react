@@ -1,0 +1,597 @@
+[
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/login",
+    "regexp": "/^\\/login(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/register",
+    "regexp": "/^\\/register(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/changePwd",
+    "regexp": "/^\\/changePwd(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/changePseudonym",
+    "regexp": "/^\\/changePseudonym(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/showviewUsers",
+    "regexp": "/^\\/showviewUsers(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/showviewAdministrators",
+    "regexp": "/^\\/showviewAdministrators(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/deleteUsers",
+    "regexp": "/^\\/deleteUsers(?:\\/(?=$))?$/",
+<<<<<<< HEAD
+=======
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/smsVerif",
+    "regexp": "/^\\/smsVerif(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/uploadUser",
+    "regexp": "/^\\/uploadUser(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/smsVerif",
+    "regexp": "/^\\/smsVerif(?:\\/(?=$))?$/",
+=======
+    "path": "/Addprivatewrite",
+    "regexp": "/^\\/Addprivatewrite(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/getuserwrite",
+    "regexp": "/^\\/getuserwrite(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/uploadUser",
+    "regexp": "/^\\/uploadUser(?:\\/(?=$))?$/",
+=======
+    "path": "/deleteuserwrite",
+    "regexp": "/^\\/deleteuserwrite(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/ssgetuserwrite",
+    "regexp": "/^\\/ssgetuserwrite(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/idgetuserwrite",
+    "regexp": "/^\\/idgetuserwrite(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/Addprivatewrite",
+    "regexp": "/^\\/Addprivatewrite(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/getuserwrite",
+    "regexp": "/^\\/getuserwrite(?:\\/(?=$))?$/",
+=======
+    "path": "/xgprivatewrite",
+    "regexp": "/^\\/xgprivatewrite(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/deleteuserwrite",
+    "regexp": "/^\\/deleteuserwrite(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/ssgetuserwrite",
+    "regexp": "/^\\/ssgetuserwrite(?:\\/(?=$))?$/",
+=======
+    "path": "/getTeam",
+    "regexp": "/^\\/getTeam(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/idgetuserwrite",
+    "regexp": "/^\\/idgetuserwrite(?:\\/(?=$))?$/",
+=======
+    "path": "/deleteTeam",
+    "regexp": "/^\\/deleteTeam(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/xgprivatewrite",
+    "regexp": "/^\\/xgprivatewrite(?:\\/(?=$))?$/",
+=======
+    "path": "/addTeam",
+    "regexp": "/^\\/addTeam(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/getTeam",
+    "regexp": "/^\\/getTeam(?:\\/(?=$))?$/",
+=======
+    "path": "/modifyTeam",
+    "regexp": "/^\\/modifyTeam(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/getMyBook",
+    "regexp": "/^\\/getMyBook(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/BookUpload",
+    "regexp": "/^\\/BookUpload(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/deleteTeam",
+    "regexp": "/^\\/deleteTeam(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/addTeam",
+    "regexp": "/^\\/addTeam(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/modifyTeam",
+    "regexp": "/^\\/modifyTeam(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/getMyBook",
+    "regexp": "/^\\/getMyBook(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/BookUpload",
+    "regexp": "/^\\/BookUpload(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+=======
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "path": "/getMybook",
+    "regexp": "/^\\/getMybook(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/delgoods",
+    "regexp": "/^\\/delgoods(?:\\/(?=$))?$/",
+<<<<<<< HEAD
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/getMybookShop",
+    "regexp": "/^\\/getMybookShop(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/deleteShopcar",
+    "regexp": "/^\\/deleteShopcar(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/addShopcar",
+    "regexp": "/^\\/addShopcar(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/showLocalUser",
+    "regexp": "/^\\/showLocalUser(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/showRootUser",
+    "regexp": "/^\\/showRootUser(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/deleteUser",
+    "regexp": "/^\\/deleteUser(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/addUser",
+    "regexp": "/^\\/addUser(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/showBook",
+    "regexp": "/^\\/showBook(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+    "path": "/deleteBook",
+    "regexp": "/^\\/deleteBook(?:\\/(?=$))?$/",
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+    "path": "/addBook",
+    "regexp": "/^\\/addBook(?:\\/(?=$))?$/",
+=======
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/showUserprivatewrite",
+    "regexp": "/^\\/showUserprivatewrite(?:\\/(?=$))?$/",
+=======
+    "path": "/getMybookShop",
+    "regexp": "/^\\/getMybookShop(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "HEAD",
+      "GET"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/deleteUserprivatewrite",
+    "regexp": "/^\\/deleteUserprivatewrite(?:\\/(?=$))?$/",
+=======
+    "path": "/deleteShopcar",
+    "regexp": "/^\\/deleteShopcar(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  },
+  {
+    "name": null,
+    "methods": [
+      "POST"
+    ],
+    "paramNames": [],
+<<<<<<< HEAD
+    "path": "/addUserprivatewrite",
+    "regexp": "/^\\/addUserprivatewrite(?:\\/(?=$))?$/",
+=======
+    "path": "/addShopcar",
+    "regexp": "/^\\/addShopcar(?:\\/(?=$))?$/",
+>>>>>>> 0d0ffb498caaa8939dd587c919441e17e192961d
+    "stack": [
+      "wrappedController"
+    ]
+  }
+]

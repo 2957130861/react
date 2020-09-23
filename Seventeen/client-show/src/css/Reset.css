@@ -1,0 +1,41 @@
+.reset_middle{
+    margin-top: 60px;
+    background-color: #F0F2F8;
+    height: 800px;
+}
+.mmddlie{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 80%;
+    margin: 0px auto;
+    background-color: #fff;
+    height: 700px;
+}
+.line{
+    width: 100%;
+    background-color: #F0F2F8;
+    height: 50px;
+}
+.divText{
+    width: 100%;
+    font-size: 18px;
+    color:#000;
+    font-weight: bold;
+    margin-top: 20px;
+    border-bottom: 3px solid ;
+    text-align: center;
+    line-height: 40px;
+}
+.login_ipt{
+    padding-right: 15px;
+}
+.reset_ipt{
+    border: 1px solid rgb(151, 151, 151);
+    width: 500px;
+    height: 450px;
+    text-align: center;
+}
+.reset_phone {
+    margin-top: 40px;
+}

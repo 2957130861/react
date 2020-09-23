@@ -1,0 +1,140 @@
+*{
+    margin:0;
+    padding: 0;
+}
+input{
+    outline: none;
+}
+.notchecked{
+    display: none;
+}
+.checked{
+    display: block;
+}
+.module{
+    width: 100%;
+    height: 100vh;
+    background-color:rgba(30,30 , 30, 0.2);
+    position: absolute;
+    z-index: 2;
+}
+.content{
+    position: absolute;
+    z-index: 10;
+    width: 500px;
+    height: 400px;
+    left:50%;
+    top: 50%;
+    margin-left: -250px;
+    margin-top: -250px;
+    background-color: #fff;
+}
+.content-top{
+    width: 100%;
+    height: 25%;
+    text-align: center;
+    border-bottom: 1px solid #ccc;
+}
+.title{
+    margin-top: 52px;
+    height: 24px;
+    line-height: 1.71429;
+    font-size: 14px;
+    margin-bottom: 16px;
+    color: rgb(51, 51, 51);
+    text-align: center;
+}
+.content-title{
+    height: 36px;
+    width: 285px;
+    display: block;
+    margin: 0px auto;
+    background: rgb(250, 250, 252);
+    font-size: 12px;
+    text-align: center;
+    line-height: 3;
+    color: rgb(144, 144, 144);
+    border-radius: 0px;
+    border: none;
+}
+.team {
+    height: 24px;
+    line-height: 1.71429;
+    font-size: 14px;
+    margin-bottom: 16px;
+    color: rgb(51, 51, 51);
+    text-align: left;
+}
+.right{
+    float: right;
+    cursor: pointer;
+    color: rgb(51, 51, 51);
+}
+.it{
+    position: relative;
+    left: 40px;
+    margin: 18px 18px 0px 0px;
+}
+.ant-tag-checkable-checked {
+    color: rgb(144, 144, 144);
+    margin: 0px;
+    height: 30px;
+    border: 1px solid rgb(224, 225, 229);
+    cursor: pointer;
+    line-height: 30px;
+    padding: 0px 18px;
+    max-width: 150px;
+    box-sizing: border-box;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    position: relative;
+    background: #fafafa;
+}
+.ant-tag-checkable:active {
+    background-color: #0d0c0c;
+}
+.nt-tag-checkable:active{
+    color: #debc8b;
+    background-color: #333;
+}
+.content-mid{
+    width: 94%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px auto;
+}
+.content-bottom{
+    width: 300px;
+    position: absolute;
+    bottom: 30px;
+    left: 50%;
+    margin-left: -150px;
+}
+.content-icon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    height: 50px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+}
+.midTarea>.ant-input{
+    outline: none;
+}
+.midTarea>.ant-input:hover {
+    border-color: black;
+    border-right-width: 1px !important;
+}
+.midTarea>.ant-input:focus{
+    outline:none;
+    }
+.midTarea>.ant-input:focus {
+    border-color: rgba(214,214,214) !important;
+    box-shadow: 0 0 0 2px rgba(13, 20, 26, 0.2);
+}
+.content-icon::-webkit-scrollbar{
+    display: none;
+}

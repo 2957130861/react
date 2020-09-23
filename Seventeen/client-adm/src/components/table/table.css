@@ -1,0 +1,15 @@
+.addtable{
+    width: 40%;
+    margin: 0 auto;
+}
+.inputcont{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.labelcont{
+    width: 100px;
+    text-align: start;
+}

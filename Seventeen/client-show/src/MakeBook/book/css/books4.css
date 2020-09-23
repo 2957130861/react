@@ -1,0 +1,53 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.books4 {
+    margin-top: 20px !important;
+    border: rgba(49, 48, 80, 0.07) solid 1px;
+    box-shadow: rgba(49, 48, 80, 0.07) 0px 2px 22px 0px;
+    padding: 10px;
+    width: 70%;
+    margin: 0 auto;
+    min-height: 40px;
+    position: relative;
+    overflow: hidden;
+}
+
+.action {
+    height: 0;
+    line-height: 0;
+}
+
+/* input {
+    outline: #333 solid 1px !important;
+} */
+
+.avatar-uploader {
+    display: block;
+    width: 80%;
+    height: 100%;
+    margin: 20px auto;
+    text-align: center;
+    outline: none;
+}
+
+.ant-upload.ant-upload-select.ant-upload-select-picture-card {
+    display: inline-block !important;
+    width: 100% !important;
+    height: auto;
+}
+
+.Text1 {
+    width: 80%;
+    height: 100%;
+    top: 50px;
+    resize: none;
+    display: block;
+    margin: 20px auto;
+    background: transparent;
+    border: dashed 1px #cccccc;
+    outline: none;
+    font-size: 1.5em;
+}
