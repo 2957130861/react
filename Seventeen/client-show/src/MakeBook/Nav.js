@@ -1,14 +1,16 @@
 import React, { Component } from 'react'
-import { Link } from "react-router-dom";
-
+import { Layout } from 'antd';
+import HeadNav from '../seventeen/headNav'
+const {Header} = Layout;
 export default class NAv extends Component {
    
     render() {
         return (
-            <div style={{ height: "60px", width: "100vw" }}>
-                <Link to="/">做书/打印</Link>&nbsp;&nbsp;&nbsp;&nbsp;
-                <Link to="/seeall">我的作品</Link>
-            </div>
+            <>
+            <Layout>
+            <Header style={{padding:0}}><HeadNav/></Header>
+            </Layout>
+            </>
         )
     }
 }

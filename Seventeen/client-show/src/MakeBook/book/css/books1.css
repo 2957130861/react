@@ -15,9 +15,9 @@
     box-shadow: rgba(49, 48, 80, 0.07) 0px 2px 22px 0px;
 }
 
-input {
-    outline: #5cacee solid 1px !important;
-}
+/* input {
+    outline: #333 solid 1px !important;
+} */
 
 .avatar-uploader {
     display: block;

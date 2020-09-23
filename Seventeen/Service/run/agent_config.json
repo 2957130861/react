@@ -75,7 +75,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
+      "templatePath": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror\\lib\\onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -88,8 +88,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
-        "development": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
+        "default": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\default",
+        "development": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher\\lib\\event-sources\\development"
       }
     },
     "customLogger": {
@@ -112,7 +112,7 @@
       "files": 10,
       "fileExtensions": [],
       "whitelist": null,
-      "tmpdir": "C:\\Users\\asus\\AppData\\Local\\Temp\\egg-multipart-tmp\\travel",
+      "tmpdir": "C:\\Users\\86177\\AppData\\Local\\Temp\\egg-multipart-tmp\\travel",
       "cleanSchedule": {
         "cron": "0 30 4 * * *"
       }
@@ -136,14 +136,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "E:\\farSight\\09-React\\Seventeen\\Service\\app\\public",
+      "dir": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\app\\public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "E:\\farSight\\09-React\\Seventeen\\Service\\app\\view",
+      "root": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\app\\view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -190,6 +190,7 @@
       "author": "",
       "license": "ISC",
       "dependencies": {
+        "@alicloud/sms-sdk": "^1.1.6",
         "egg": "^2.27.0",
         "egg-cors": "^2.2.3",
         "egg-mysql": "^3.0.0"
@@ -198,9 +199,9 @@
         "egg-bin": "^4.15.0"
       }
     },
-    "baseDir": "E:\\farSight\\09-React\\Seventeen\\Service",
-    "HOME": "C:\\Users\\asus",
-    "rundir": "E:\\farSight\\09-React\\Seventeen\\Service\\run",
+    "baseDir": "C:\\Users\\86177\\Desktop\\Seventeen\\Service",
+    "HOME": "C:\\Users\\86177",
+    "rundir": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -232,7 +233,7 @@
       "onerror": "<Function onerror>"
     },
     "logger": {
-      "dir": "E:\\farSight\\09-React\\Seventeen\\Service\\logs\\travel",
+      "dir": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\logs\\travel",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -307,8 +308,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-session@3.2.0@egg-session",
       "version": "3.2.0"
     },
     "security": {
@@ -320,8 +321,8 @@
         "session"
       ],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-security@2.8.0@egg-security",
       "version": "2.8.0"
     },
     "jsonp": {
@@ -333,8 +334,8 @@
         "security"
       ],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-jsonp@2.0.0@egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -346,8 +347,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-onerror@2.1.0@egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -357,8 +358,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-i18n@2.1.1@egg-i18n",
       "version": "2.1.1"
     },
     "watcher": {
@@ -368,8 +369,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-watcher@3.1.1@egg-watcher",
       "version": "3.1.1"
     },
     "schedule": {
@@ -379,8 +380,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-schedule@3.6.5@egg-schedule",
       "version": "3.6.5"
     },
     "multipart": {
@@ -392,8 +393,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-multipart@2.10.3@egg-multipart",
       "version": "2.10.3"
     },
     "development": {
@@ -407,8 +408,8 @@
       "env": [
         "local"
       ],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-development@2.7.0@egg-development",
       "version": "2.7.0"
     },
     "logrotator": {
@@ -420,8 +421,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-logrotator@3.1.0@egg-logrotator",
       "version": "3.1.0"
     },
     "static": {
@@ -431,8 +432,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-static@2.2.0@egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -442,8 +443,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg@2.28.0@egg\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-view@2.1.2@egg-view",
       "version": "2.1.2"
     },
     "mysql": {
@@ -453,8 +454,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-mysql@3.0.0@egg-mysql",
       "version": "3.0.0"
     },
     "cors": {
@@ -464,8 +465,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "E:\\farSight\\09-React\\Seventeen\\Service\\config\\plugin.js",
-      "path": "E:\\farSight\\09-React\\Seventeen\\Service\\node_modules\\_egg-cors@2.2.3@egg-cors",
+      "from": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\config\\plugin.js",
+      "path": "C:\\Users\\86177\\Desktop\\Seventeen\\Service\\node_modules\\_egg-cors@2.2.3@egg-cors",
       "version": "2.2.3"
     }
   }

@@ -1,0 +1,92 @@
+.rightcontent1 {
+    min-width: 700px;
+}
+
+/* 头部 */
+.headContend {
+    height: 60px;
+    margin-bottom: 14px;
+    border-bottom: 1px solid rgb(233, 233, 233);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Btn>button {
+    color: #888;
+    margin-left: 10px;
+}
+
+.Btn>button:hover {
+    border-color: slategray;
+    color: slategray;
+}
+
+/* mybook内容 */
+.mybooks {
+    width: 90%;
+    /* min-height: 650px; */
+    margin: 0 auto;
+    position: relative;
+    height: auto;
+    zoom: 1;
+    display: block;
+    box-sizing: border-box;
+}
+
+.books {
+    display: block;
+    box-sizing: border-box;
+    width: 16.66666667%;
+    float: left;
+    margin-left: 5px;
+    max-width: 100%;
+    margin-bottom: 6px;
+    border-bottom: none;
+}
+
+.books>img {
+    width: 70%;
+    height: 70px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, .3);
+    position: relative;
+    left: 50px;
+}
+
+.books>p {
+    margin-top: 1px;
+    font-size: 12px;
+    margin-left: 10px;
+    position: relative;
+    left: 50px;
+    margin-bottom: 0px;
+}
+
+.delspan {
+    position: absolute;
+    color: #f00;
+    cursor: pointer;
+    font-size: 37px;
+}
+/* 模态弹窗 */
+/* .model {
+    position: absolute;
+    top:10px;
+    width: 300px;
+    height: 200px;
+    background-color: tomato;
+} */
+/* 无内容 */
+.noContent {
+    width: 100%;
+    padding-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.noContent>em {
+    font-weight: 800;
+    color: steelblue;
+    font-size: 16px;
+}

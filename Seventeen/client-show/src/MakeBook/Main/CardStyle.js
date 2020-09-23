@@ -13,7 +13,7 @@ export default class CardStyle extends Component {
             <div>
                 <Link to={{pathname:"/books"}} onClick={this.changeBook.bind(this)}>
                     <img
-                        src={"https://res.shiqichuban.com/v1/image/get/oTlp2YkpNWIXmp-TI7Nt4GKfzeHl9cib0VkCUd0as-cYq1_5J9UIN80uNLUJ448AKm-GHU2BBpu1TYgmCWTNGQ"}
+                        src={this.props.imgurl}
                     />
                     <div className="info">
                         <span>样式1</span>

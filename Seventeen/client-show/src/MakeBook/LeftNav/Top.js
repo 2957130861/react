@@ -15,7 +15,7 @@ export default class Top extends Component {
                     <CaretDownOutlined />
                 </span>
                 <span className="all" >
-                    <Link to="/seeall">查看全部</Link>
+                    <Link to="/works">查看全部</Link>
                     <RightOutlined />
                 </span>
             </div>

@@ -1,5 +1,5 @@
 .leftnav {
-    background-color: rgb(245, 245, 250);
+    /* background-color: rgb(245, 245, 250); */
     height: 100%;
     min-width: 350px;
     box-sizing: border-box;
@@ -98,7 +98,7 @@ ul li:last-child {
     margin-top: 30px;
 }
 
-.bottom {
+.bottom1 {
     position: absolute;
     bottom: 0px;
     box-sizing: border-box;
@@ -137,7 +137,7 @@ ul li:last-child {
     margin: 0px 16px;
 }
 
-.bottom .link>div img {
+.link>img {
     width: 42px;
     height: 50px;
     cursor: pointer;

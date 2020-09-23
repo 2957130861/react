@@ -1,0 +1,150 @@
+.Privatewrite{
+    display: flex;
+    height: 673px;
+}
+/* ---------------------------------------- */
+.Privatewriteleft{
+    width: 76px; 
+    height: 100%;
+    background-color: rgb(247, 248, 251);
+    font-size: 12px;
+    text-align: center;
+    color: rgb(144, 147, 156);
+}
+/* -------------------------------- */
+.Privatewriteleft-top{
+    position: relative;
+    cursor: pointer;
+    top:130px
+}
+.Privatewriteleft-top img{
+    width: 42px;
+}
+/* -------------------------------- */
+.Privatewriteleft-bottom{
+    position: relative;
+    cursor: pointer;
+    top: 70%;
+}
+.Privatewriteleft-bottom img{
+    width: 42px;
+}
+/* ---------------------------------------- */
+.Privatewritecenter{
+    width: 400px;
+    height: 673px;
+    background-color: #F4F4F9;
+}
+.Privatewritecenter-nr{
+    position: relative;
+    top: 100px;
+    text-align: center;
+}
+/* --------------------------------- */
+.Privatewritecenter-nr-top{
+    height: 80px;
+    border-bottom: 2px solid #E0E1E5;
+}
+.Privatewritecenter-search{
+    border: none;
+    outline: none;
+    width: 200px;
+    height: 30px;
+    font-size: 70%;
+    border-radius: 4px;
+}
+.Privatewritecenter-search-sure{
+    position: relative;
+    right: 34px;
+    display: inline-block;
+    width: 30px;
+    height: 100%;
+    background-color: white;
+    border-left: 2px solid #F4F4F9;
+    cursor: pointer;
+}
+.Privatewritecenter-nr-top-h{
+    width: 428px;
+    position: relative;
+    top: 10px;
+    font-size: 13px;
+    color: rgb(102, 102, 102);
+    padding-right: 300px;
+}
+/* -------------------------------- */
+.Privatewritecenter-nr-bottom{
+    height: 486px;
+    overflow: auto;
+}
+.Privatewritecenter-nr-bottom::-webkit-scrollbar{
+    width: 3px;
+}
+.Privatewritecenter-nr-bottom::-webkit-scrollbar-track{
+    border-radius: 5px;
+}
+.Privatewritecenter-nr-bottom::-webkit-scrollbar-thumb{
+    border-radius: 5px;
+    background: rgba(102, 102, 102, 0.5);
+}
+.Privatewrite-XHNR{
+    text-align: left;
+    border-bottom: 2px solid #E0E1E5;
+    color: rgb(102, 102, 102);
+    padding: 15px;
+}
+.Privatewrite-XHNR p{
+    font-size: 10px;
+}
+.Privatewrite-XHNR-time{
+    display: inline-block;
+    width: 75px;
+}
+.Privatewrite-XHNR-delete{
+    position: relative;
+    left: 250px;
+    cursor: pointer;
+}
+/* ------------------------------ */
+.Privatewriteright{
+    margin: 0 50px;
+}
+.Privatewriteright-top{
+    width: 750px;
+    position: relative;
+    top: 110px;
+    padding-bottom: 20px;
+    padding-top: 17px;
+    border-bottom: 2px solid #E0E1E5;
+}
+.Privatewriteright-top-h{
+    border: none;
+    outline: none;
+    height: 30px;
+    margin-right: 280px;
+    font-size: 18px;
+}
+.Privatewriteright-top-date{
+    border: style 1px;
+    outline: none;
+}
+.Privatewriteright-top-bc{
+    background-color: #403C3C;
+    color: #DEBC76;
+    border-radius: 4px;
+    cursor: pointer;
+    width: 60px;
+    margin-left: 20px;
+}
+.Privatewriteright-top-bc:hover{
+    background-color: #0D0C0C;
+}
+/* --------------------------------------- */
+.Privatewriteright-bottom{
+    overflow: hidden;
+    height: 550px;
+}
+.Privatewriteright-html{
+    position: relative;
+    top: 130px;
+}
+

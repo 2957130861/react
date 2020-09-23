@@ -20,9 +20,9 @@
     line-height: 0;
 }
 
-input {
-    outline: #5cacee solid 1px !important;
-}
+/* input {
+    outline: #333 solid 1px !important;
+} */
 
 .avatar-uploader {
     display: block;
