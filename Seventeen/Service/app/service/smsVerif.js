@@ -4,9 +4,9 @@ class noteService extends Service {
     async smsVerif(obj) {
         console.log(obj, "smsverif77")
         var client = new Core({
-            accessKeyId: 'LTAI4G2DmcQ4w1XQVrpwTJE6',
-            accessKeySecret: 'P9qPuTF4fFkkUVS4cjccrZLiWcWcmZ',
-            endpoint: 'https://dysmsapi.aliyuncs.com',
+            accessKeyId: '',
+            accessKeySecret: '',
+            endpoint: '',
             apiVersion: '2017-05-25'
         });
 
